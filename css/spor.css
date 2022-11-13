@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 5em;
+    font-family: sans-serif;
+    color: lime;
+    
+}
+h3 {
+    color: darkorange;
+}
+p{
+    font-size: 1em;
+}
+
+.ul-style{
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+}
+.ortala2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+  }
